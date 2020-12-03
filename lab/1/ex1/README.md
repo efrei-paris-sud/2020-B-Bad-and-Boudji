@@ -5,7 +5,7 @@ Test your LED by connecting the orange wire to the red bus (VCC). Is it work?
 
 
 ## Schematic 
-![Test Image](photo.png?raw=true)
+ ![Screenshot](screenshot.png) 
 
 ## Code
  ```Arduino
