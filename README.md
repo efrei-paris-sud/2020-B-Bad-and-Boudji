@@ -23,4 +23,4 @@ Please don't forget to update the github repository information too.
 The lab reports are accessible from [this link](lab)
 
 # Refereces:
-[Avatar](https://avatars1.githubusercontent.com/u/75269298?s=400&u=57a8fbc59ef6a6affcaffdac2b3f6446c2378960&v=4) by [Dmitriy Bondarchuk](https://iconscout.com/contributors/dmitriy-bondarchuk)
+[Avatar](https://github.com/efrei-paris-sud/2020-B-Bad-and-Boudji/blob/main/project/Elise_BOUDJEMA.jpg) by [Dmitriy Bondarchuk](https://iconscout.com/contributors/dmitriy-bondarchuk)
