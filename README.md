@@ -1,6 +1,6 @@
 # Team Name: Bad&Boudji
 Members: 
-|![member1](https://github.com/efrei-paris-sud/2020-B-Bad-and-Boudji/blob/main/Elise_BOUDJEMA.jpg) |![member2](assets/member2.webp?raw=true)  |
+|![member1](https://github.com/efrei-paris-sud/2020-B-Bad-and-Boudji/blob/main/Elise_BOUDJEMA.jpg) |![member2](https://github.com/efrei-paris-sud/2020-B-Bad-and-Boudji/blob/main/Elise_BOUDJEMA.jpg)  |
 |--|--|
 |  [Member 1](https://github.com/EliseBoudj) <br> a short description of her responsiblity ...| [Member 2 ](https://github.com/LamJustine) <br> a short description of his responsiblity ... |
 
@@ -23,4 +23,3 @@ Please don't forget to update the github repository information too.
 The lab reports are accessible from [this link](lab)
 
 # Refereces:
-[Avatar](https://github.com/efrei-paris-sud/2020-B-Bad-and-Boudji/blob/main/Elise_BOUDJEMA.jpg) by [Dmitriy Bondarchuk](https://iconscout.com/contributors/dmitriy-bondarchuk)
