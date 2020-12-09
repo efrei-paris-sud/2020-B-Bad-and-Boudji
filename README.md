@@ -7,7 +7,7 @@ Members:
 
 
 # Project Title: SmartCount
- **Description**: With Covid19, we realise that we need to regulate the number of person in a room, especially for customers in a shop. So had the idea of creating a counter that will display the number of person present in a room. For this, the captors will increment each time someone is entering or going out. We will use visual tools : if leds bright in red, this means that there are too many people, we will also have a sound to alert the administrators. If we are close to being full, the leds will be in orange, and if it's green, that means that the shop is ready to welcome people. 
+ **Description**: With Covid19, we realise that we need to regulate the number of person in a room, especially for customers in a shop. So had the idea of creating a counter that will display the number of person present in a room. For this, the captors will increment each time someone is entering or going out. We will use visual tools : if leds bright in red, this means that there are too many people, we will also have a sound to alert the administrators. If we are close to being full, the leds will be in orange, and if it's green, that means that the shop is ready to welcome people.  hello
  
 [Click here for more information about the project](project) 
 
