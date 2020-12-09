@@ -2,7 +2,7 @@
 Members: 
 |![member1](https://github.com/efrei-paris-sud/2020-B-Bad-and-Boudji/blob/main/130305902_209820843941767_1062907904235241970_n.png) |![member2](https://github.com/efrei-paris-sud/2020-B-Bad-and-Boudji/blob/main/130732765_392982165250001_5254255664240654325_n.png)  |
 |--|--|
-|  [Member 1](https://github.com/EliseBoudj) <br> a short description of her responsiblity ...| [Member 2 ](https://github.com/LamJustine) <br> a short description of his responsiblity ... |
+|  [Elise](https://github.com/EliseBoudj) <br> Same responsability and things to do| [Justine ](https://github.com/LamJustine) <br> Same responsability and things to do |
 
 
 
