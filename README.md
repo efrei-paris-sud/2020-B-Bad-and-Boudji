@@ -1,6 +1,6 @@
 # Team Name: Bad&Boudji
 Members: 
-|![member1](<img src= "https://github.com/efrei-paris-sud/2020-B-Bad-and-Boudji/blob/main/Elise_BOUDJEMA.jpg" width = 200px />) |![member2](https://github.com/efrei-paris-sud/2020-B-Bad-and-Boudji/blob/main/Elise_BOUDJEMA.jpg)  |
+|![member1](https://github.com/efrei-paris-sud/2020-B-Bad-and-Boudji/blob/main/130305902_209820843941767_1062907904235241970_n.png) |![member2](https://github.com/efrei-paris-sud/2020-B-Bad-and-Boudji/blob/main/130583648_133587201697814_3906018729421569814_n.png)  |
 |--|--|
 |  [Member 1](https://github.com/EliseBoudj) <br> a short description of her responsiblity ...| [Member 2 ](https://github.com/LamJustine) <br> a short description of his responsiblity ... |
 
