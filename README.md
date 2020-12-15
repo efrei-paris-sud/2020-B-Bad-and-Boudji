@@ -13,7 +13,7 @@ Members:
 
 //Example Video of the porject:
 
-![Logo](https://github.com/efrei-paris-sud/2020-B-Bad-and-Boudji/blob/main/SmartCount.png)
+![Logo](https://github.com/efrei-paris-sud/2020-B-Bad-and-Boudji/blob/main/Capture%20d%E2%80%99e%CC%81cran%202020-12-15%20a%CC%80%2008.32.34.png)
 
 Please don't forget to update the github repository information too. 
 ![Change Description of github repository](assets/change_description.png?raw=true)
