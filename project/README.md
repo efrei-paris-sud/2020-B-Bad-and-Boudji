@@ -10,7 +10,8 @@ Please use a gif format for the cover photo like this: (you can create gif using
  - [x] **IoT Platform**
  - [x] **Doing an action**
 
-bla bla bla bla bla bla bla bla blabla bla blabla bla blabla bla bla  bla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla bla
+[First steps of our project]()
+
 
 [Team Report](doc/report.pdf) 
 
