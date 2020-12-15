@@ -8,9 +8,7 @@ We added the second sensor and plugged all the wires to see if the two sensors w
 
 The sensor dectects the obstacle well and measures the distance between the two as you can see in the two pictures.
 
-After verify that the sensor is working, we decided to schematize our idea (where put the device) :
-
-![Schema](https://github.com/efrei-paris-sud/2020-B-Bad-and-Boudji/blob/main/project/FirstSteps/131578942_1036478646857689_1710014657525749501_n%20(2).jpg)
-
+ ```Arduino
+ ```
 
 
