@@ -132,5 +132,7 @@ Serial.println(visitor); // on s'en sert pour deboguer
 }
  
  ```
+We get this :
 
+![Screen](https://github.com/efrei-paris-sud/2020-B-Bad-and-Boudji/blob/main/project/Step2/131889620_1314939608857401_9195753201624875662_n.png)
 
