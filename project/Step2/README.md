@@ -71,5 +71,66 @@ void loop() {
 }
  
  ```
+ 
+ 
+ Then we added a counter for the number of persons who enter or exit :
+ 
+ ```Arduino
+ 
+ #define trigPin1 2 //dÃ©finition du 1er capteur on branche la borne trigger sur le pin 2 de la carte Arduino
+#define echoPin1 3 //dÃ©finition du 1er capteur on branche la borne echo sur le pin 3 de la carte Arduino
+#define trigPin2 4 //dÃ©finition du 2Ã¨me capteur on branche la borne trigger sur le pin 4 de la carte Arduino
+#define echoPin2 5 //dÃ©finition du 2Ã¨me capteur on branche la borne echo sur le pin 5 de la carte Arduino
+
+void setup() {
+Serial.begin (9600); // on va utiliser notre ordinateur afin de lire ce que dit la carte Arduino
+pinMode(trigPin1, OUTPUT); // on active la borne trigger du capteur 1
+pinMode(echoPin1, INPUT); // on active la borne echo du capteur 1
+pinMode(trigPin2, OUTPUT); // on active la borne trigger du capteur 2
+pinMode(echoPin2, INPUT); // on active la borne echo du capteur 2
+//Serial.println("Demarrage du programme"); // cette ligne est inutile c'est juste pour faire beau
+}
+unsigned int visitor = 0; // de base il y a personne dans notre magasin et visitor ne peut prendre une valeur negative
+void loop() {
+long duration1, distance1; // ici on dÃ©fini deux variables qui correspondent a la distance de l'obstacle
+long duration2, distance2; // ici on dÃ©fini deux variables qui correspondent a la distance de l'obstacle
+digitalWrite(trigPin1, HIGH);
+delayMicroseconds(2); // test
+digitalWrite(trigPin1, HIGH);
+delayMicroseconds(10);
+digitalWrite(trigPin1, LOW);
+delayMicroseconds(10); // test
+digitalWrite(trigPin1, LOW);
+duration1 = pulseIn(echoPin1, HIGH);
+distance1 = duration1 / 58; // ici exprimee en cm cf : http://www.micropik.com/PDF/HCSR04.pdf
+// Serial.print("Capteur 1: ");
+// Serial.println(distance1); // si besoin pour deboguer
+delay(500);
+
+digitalWrite(trigPin2, HIGH);
+delayMicroseconds(2); // test
+digitalWrite(trigPin2, HIGH);
+delayMicroseconds(10);
+digitalWrite(trigPin2, LOW);
+delayMicroseconds(10); // test
+digitalWrite(trigPin2, LOW);
+duration2 = pulseIn(echoPin2, HIGH);
+distance2 = duration2 / 58; // ici exprimee en cm cf : http://www.micropik.com/PDF/HCSR04.pdf
+// Serial.print("Capteur 2: ");
+// Serial.println(distance2); // si besoin pour deboguer
+delay(500);
+
+if(distance1 < 100 && distance2 > 100) { // si le capteur 1 rÃ©agit en premier
+visitor = visitor + 1; // ALORS on ajoute +1 a la variable visitor
+}
+if(distance1 > 100 && distance2 < 100) { // si le capteur 2 rÃ©agit en second
+visitor = visitor - 1; // ALORS on enleve 1 a la variable visitor
+}
+Serial.print("Nombre de personnes en magasin : "); // on s'en sert pour deboguer
+Serial.println(visitor); // on s'en sert pour deboguer
+
+}
+ 
+ ```
 
 
