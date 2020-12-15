@@ -11,7 +11,7 @@ Members:
  
 [Click here for more information about the project](project) 
 
-//Example Video of the porject:
+//Example Video of the project:
 
 
 # Our logo
