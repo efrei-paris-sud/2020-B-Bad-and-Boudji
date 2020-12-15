@@ -10,7 +10,7 @@ Please use a gif format for the cover photo like this: (you can create gif using
  - [x] **IoT Platform**
  - [x] **Doing an action**
 
-[First steps of our project]()
+[First steps of our project](https://github.com/efrei-paris-sud/2020-B-Bad-and-Boudji/tree/main/project/FirstSteps)
 
 
 [Team Report](doc/report.pdf) 
